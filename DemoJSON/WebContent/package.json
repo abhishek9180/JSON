@@ -1,0 +1,14 @@
+{
+  "name": "form_in_nodejs",
+  "version": "1.0.0",
+  "description": "using forms in Node.js",
+  "main": "server_data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Jha",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
